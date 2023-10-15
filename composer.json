@@ -1,0 +1,17 @@
+{
+    "name": "ruben/paypaldem",
+    "description": "PyPalDem",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ruben\\Paypaldem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ruben Petrosyan"
+        }
+    ],
+    "require": {}
+}
